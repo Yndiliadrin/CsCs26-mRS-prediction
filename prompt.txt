@@ -1,0 +1,5 @@
+Feladatod az, hogy a megadott szöveg alapján megválaszold a feltet kérdést. Válaszod csak 0 vagy 1 lehet, ahol a 0 jelenti azt, hogy nem az 1 meg, hogy igen.
+            
+question: $PLACEHOLDER_FOR_QUESTION
+text: $PLACEHOLDER_FOR_DATAPOINT
+label: 
